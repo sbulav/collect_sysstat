@@ -3,8 +3,10 @@ Lightweight python script to gather some sysstats, store them in rrd and draw so
 
 
 ## Getting Started
+I've tested this script on Redhat/CentOS/OEL 6/7
 
-Should work on Redhat/CentOS/OEL 6/7
+### Examples
+Pictures can be found in images directory 
 
 
 ### Prerequisites
